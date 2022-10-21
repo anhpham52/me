@@ -50,7 +50,9 @@ about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   I am a Ph.D. candidate in Economics at the University of Birmingham with experience in quantitative research and DSGE modelling using MATLAB, and DYNARE. 
   My research interests focus on the topics of fiscal policy, monetary policy, and economic growth. During my research, I have shown the ability to work independently, devising and presenting monthly reports to supervisors in a timely fashion. 
-  Besides, I could demonstrate strong synthesizing and writing skills. Please visit this [link](https://docs.google.com/document/d/10zlRWfRzKs6ltY_karJb5peqTqGQ4EVt/edit?usp=sharing&ouid=101039167622655702744&rtpof=true&sd=true) for my academic curriculum vitae
+  Besides, I could demonstrate strong synthesizing and writing skills. 
+  
+  Please visit this [link](https://drive.google.com/file/d/1FJTfOhk_becKLhL-ximv7C44ImPq2obz/view?usp=sharing) for my academic curriculum vitae.
 
 content:
 #  - title: Projects # Title for the section
