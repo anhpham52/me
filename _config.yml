@@ -87,38 +87,38 @@ content:
         caption: September 2019 – Present
         description: | # this will include new lines to allow paragraphs
           Thesis: “Essays on Business Cycle and Macroeconomic Policies”
-          
+          |
           Supervisors: Professor John Fender, Dr. Pei Kuang
-          
-            •	Planned, organised and managed an independent research project on the business cycle and policies
+          |
+            •	Planned, organised and managed an independent research project on the business cycle and policies|
             
-            •	Employed DSGE model to evaluate different regimes of fiscal policies
+            •	Employed DSGE model to evaluate different regimes of fiscal policies|
             
-            •	Applied DSGE model and Bayesian estimation to estimate the impact of shocks, and spillover effects
+            •	Applied DSGE model and Bayesian estimation to estimate the impact of shocks, and spillover effects|
             
-            •	Enhanced skills in time management and project management
+            •	Enhanced skills in time management and project management|
             
-            •	Consolidated ability to quickly assimilate skills in different programming languages, specialised in the use of MATLAB and DYNARE
+            •	Consolidated ability to quickly assimilate skills in different programming languages, specialised in the use of MATLAB and DYNARE|
             
-            •	Proficiency in producing technical and scientific documentation using LaTeX 
+            •	Proficiency in producing technical and scientific documentation using LaTeX |
             
-            •	Presented results clearly and confidently to audiences in conferences and seminars
+            •	Presented results clearly and confidently to audiences in conferences and seminars|
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        - title: University of Birmingham
-          caption: September 2019 – Present 
-          sub_title: Ph.D. in Economics
-
-       - title: University of Birmingham
-          caption: September 2016 – September 2017 
-          sub_title: M.Sc. in Financial Economic
-
-        - title: RMIT University
-          caption: January 2012 – December 2015
-          sub_title: B.Sc. in Economics and Finance
+        title: University of Birmingham
+        caption: September 2019 – Present 
+        sub_title: Ph.D. in Economics
+      - layout: left
+        title: University of Birmingham
+        caption: September 2016 – September 2017 
+        sub_title: M.Sc. in Financial Economic
+      - layout: left
+        title: RMIT University
+        caption: January 2012 – December 2015
+        sub_title: B.Sc. in Economics and Finance
         
   - title: Working Papers
     layout: text
