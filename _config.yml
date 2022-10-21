@@ -85,7 +85,7 @@ content:
         # link_text: boringcompany.com
         sub_title: University of Birmingham, Department of Economics
         caption: September 2019 – Present
-        content: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           Thesis: “Essays on Business Cycle and Macroeconomic Policies”| 
           
           Supervisors: Professor John Fender, Dr. Pei Kuang|
@@ -107,15 +107,15 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: top-middle
         title: University of Birmingham
         caption: September 2019 – Present 
         sub_title: Ph.D. in Economics
-      - layout: middle
+      - layout: top-middle
         title: University of Birmingham
         caption: September 2016 – September 2017 
         sub_title: M.Sc. in Financial Economic
-      - layout: middle
+      - layout: top-middle
         title: RMIT University
         caption: January 2012 – December 2015
         sub_title: B.Sc. in Economics and Finance
