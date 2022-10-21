@@ -86,10 +86,10 @@ content:
         sub_title: University of Birmingham, Department of Economics
         caption: September 2019 – Present
         description: | # this will include new lines to allow paragraphs
-          Thesis: “Essays on Business Cycle and Macroeconomic Policies”
-          |
-          Supervisors: Professor John Fender, Dr. Pei Kuang
-          |
+          Thesis: “Essays on Business Cycle and Macroeconomic Policies”| 
+          
+          Supervisors: Professor John Fender, Dr. Pei Kuang|
+          
             •	Planned, organised and managed an independent research project on the business cycle and policies|
             
             •	Employed DSGE model to evaluate different regimes of fiscal policies|
